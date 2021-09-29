@@ -12,7 +12,7 @@ Metadata:
     Labels: ['Serverless', 'Security', 'AWS', 'ServerlessGoat', 'Lambda']
     HomePageUrl: https://codeshield.io/blog/2020/11/06/serverless_goat_repo/
     SemanticVersion: 1.0.0
-    SourceCodeUrl: https://github.com/CodeShield-Security/Serverless-Goat-Java
+    SourceCodeUrl: https://github.com/kaushik853/Serverless-Goat-Java
 
 
 Globals:
